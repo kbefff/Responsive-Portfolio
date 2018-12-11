@@ -122,6 +122,8 @@ footer {
 form {
     padding: 20px 0px;
     margin: 20px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
 }
 
 input,
@@ -142,12 +144,16 @@ input[type=submit] {
     border: none;
     width: auto;
     font-size: 18px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
 }
 
 input[type=submit]:hover {
     color: #4aaaa5;
     background-color: #ffffff;
     border: 1px solid #cccccc;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
 
 }
 
