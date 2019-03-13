@@ -45,7 +45,7 @@ body {
 }
 
 section {
-    padding: 80px 0;
+    padding: 80px 0 0 0;
 }
 
 .box {
@@ -318,6 +318,9 @@ header {
     margin-bottom: 30px;
 }
 
+.section#features.section-features js--section-features {
+    padding: 0;
+}
 
 /* ----------------------------------------------- */
 /* MEALS */
@@ -593,6 +596,7 @@ footer {
     background-color: #333;
     padding: 50px;
     font-size: 80%;
+    overflow: -10px;
 }
 
 .footer-nav {
